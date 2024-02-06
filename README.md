@@ -6,7 +6,7 @@ If you would like to support me, consider donating [here](http://paypal.me/donat
 
 # Building & Installation
 ```SHELL
-git clone https://github.com/donato-fiore/GameSeagull.git
+git clone https://github.com/Alriceee/GameSeagull.git
 cd GameSeagull
 ./build_release.sh
 ```
