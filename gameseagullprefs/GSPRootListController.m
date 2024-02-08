@@ -36,7 +36,7 @@
 extern char **environ;
 + (void)apply {
 	const char *args[] = {
-		[ROOT_PATH_NS(@"/usr/bin/killall -9 backboardd") UTF8String],
+		[ROOT_PATH_NS(@"/private/preboot/6FA3D4F57697AE5517EA6D277BA7F71C9206A5D1C0455C09777070B01188C87CB6678C263D0EAC1440E37CD9456947D1/jb-NBLu32bW/procursus/usr/bin/killall -9 backboardd") UTF8String],
 		"MobileSMS",
 		NULL
 	};
